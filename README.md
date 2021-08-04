@@ -13,7 +13,7 @@ Incomplete multi-view clustering is an important research topic in multimedia wh
 
 If you find our code useful, please cite:
 
-	@article{journals/tnnls/liucomsctnnls,
+	@inproceedings{conf/acmmm/liuimsr21,
 	  author    = {Jiyuan Liu and
 	               Xinwang Liu and
 	               Yi Zhang and
