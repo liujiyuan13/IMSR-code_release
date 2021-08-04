@@ -1,8 +1,7 @@
 # Self-representation Subspace Clustering for Incomplete Multi-view Data (IMSR)
 
 Matalb implementation for ACM Multimedia paper:
-- Jiyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, Wenxuan Tu, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang:  
-[Self-representation Subspace Clustering for Incomplete Multi-view Data](https://liujiyuan13.github.io/pubs/IMSR.pdf), ACM International Conference on Multimedia, ACMMM, 2021. (Accepted Jul. 2021)
+- Jiyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, Wenxuan Tu, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang: [Self-representation Subspace Clustering for Incomplete Multi-view Data](https://liujiyuan13.github.io/pubs/IMSR.pdf), ACM International Conference on Multimedia, ACMMM, 2021. (Accepted Jul. 2021)
 
 ## Introduction
 **Abstract**
